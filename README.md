@@ -86,7 +86,7 @@ Apache 2.0 © 5h4hr14r 5h4w0n
 
 ## Contact Us
 * `If you have any feedback or queries`
-* `mail us at: shahriarshwon51@gmail.com`
+* `mail me at: shahriarshwon51@gmail.com`
 
 ## Telegram Channel
 
