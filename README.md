@@ -45,11 +45,11 @@ From here <a href="https://f-droid.org/repo/com.termux_118.apk">f-droid</a>
 
 Update the packages
 ```bash
-pkg up -y | apt-get update 
+apt-get update | pkg up -y
 ```
 Install some dependencies
 ```bash
-pkg install git wget python -y | apt-get install python3
+apt-get install python3 | pkg install git wget python -y
 ```
 Clone the repository
 ```bash
