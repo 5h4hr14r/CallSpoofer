@@ -13,7 +13,7 @@ _Don't use this to take revenge._<br />
 * `Unlimited Call Spoofs`
 * `Cross Platform`
 * `Supports newest Android also`
-* `balance will be deducted According per min call`
+* `Balance will be deducted According per min call`
 * `Working Apis`
 * `No missing Api issues, all Calls will be sent`
 * `Working with all Operators/Carriers`
@@ -23,7 +23,7 @@ _Don't use this to take revenge._<br />
   <li>Linux and Termux</li>
 </ul>
 
-## Termux Issue:
+## Termux Issues:
 * `Termux App is no longer recieving updates on playstore`
 * `due to recently introduced Google Play policy `
 <br>
@@ -41,7 +41,7 @@ From here <a href="https://f-droid.org/repo/com.termux_118.apk">f-droid</a>
 
 
 
-#### For Debian Based Linux @ Termux
+#### For Debian Based Linux & Termux
 
 Update the packages
 ```bash
