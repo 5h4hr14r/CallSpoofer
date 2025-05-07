@@ -1,8 +1,8 @@
 <h1 align="center">Call Spoofer<br>
 </h1>
 <img src="callspoof.png" alt="5h4hr14r" class="center">
-* `📱 💀`<br />
-* `A Call-Spoofer for Linux  `
+* 📱 💀<br />
+* A Call-Spoofer for Linux
 
 ## Disclaimer
 *This tool is for educational purposes only !*
