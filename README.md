@@ -81,7 +81,7 @@ t.me/5h4hr14r
 * `This Call Spoofer is to prank friends and for educational if you do any crime the developer is not responsible`
 
 ## Licence
-GPL 2.0 © 5h4hr14r 5h4w0n
+GNU - GPL 2.0 © 5h4hr14r 5h4w0n
 
 
 ## Contact Us
