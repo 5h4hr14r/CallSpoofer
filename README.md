@@ -6,8 +6,8 @@
 
 ## Disclaimer
 *This tool is for educational purposes only !*
-_Don't use this to take revenge_<br />
-*I will not be responsible for any misuses*
+_Don't use this to take revenge._<br />
+*I will not be responsible for any misuses.*
 
 ## About
 * `Unlimited Call Spoofs`
